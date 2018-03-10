@@ -1,0 +1,44 @@
+{
+  "basics":{
+    "photo":"stu.png",
+    "name":"mouni",
+    "phoneno":"9000022690",
+    "email":"mounikadevineni9@gmail.com",
+    "address":"(d/o)DSKS Bhagavan,greencity,Eluru,AP"
+
+  },
+  "education":[
+    {
+ "course":"B.tech(computer science and engineering )",
+ "institute":"CR REDDY ENGINEERING COLLEGE",
+ "data":["2015-2019","66%"]
+    },
+
+{
+  "course":"inter(MPC)",
+  "institute":"srichaitanya college",
+  "data":["2013-2015","85%"]
+},
+{
+  "course":"SSC",
+  "institute":"kkr gowtham concept school",
+  "data":["2006-2012"]
+
+}
+],
+"skills":[
+  {
+    "name":"languages",
+"data":["c","JAVA","php"]
+},
+{
+  "name":"WEB technologies",
+  "data":["HTML","CSS","php"]
+
+},
+  {
+    "name":"OS",
+    "data":["WINDOWS","LINUX","UNIX"]
+  }
+]
+}
